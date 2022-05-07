@@ -1,9 +1,9 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "56074",
-    "name": "kartik",
+    "ip": "meowbabyari.aternos.me",
+    "port": "54788",
+    "name": "MetatoBot",
     "password": "",
-    "auto-night-skip": "false",
+    "auto-night-skip": "true",
     "prefix": "",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
